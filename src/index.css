@@ -1,0 +1,38 @@
+* {
+    font-family: Helvetica;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000 !important;
+    color: #b8930c !important;
+}
+
+.linkHome {
+    color: #f7d354;
+}
+
+a {
+    text-decoration: none !important;
+    color: #f7d354;
+    transition: 0.5s !important;
+    ;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.5s;
+    -ms-transition: 0.5s;
+    -o-transition: 0.5s;
+}
+
+a:hover {
+    color: #b8930c !important;
+}
+
+.icons {
+    padding-left: 10px !important;
+}
+
+.pages {
+    align-items: center;
+}
