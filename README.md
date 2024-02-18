@@ -25,3 +25,9 @@ Incorporação de informações adicionais para enriquecer a apresentação de c
 Implementação da conversão da data de lançamento para o padrão brasileiro, proporcionando uma compreensão mais intuitiva.
 A aplicação busca proporcionar uma experiência mais completa e rica aos usuários, além de aprimorar as habilidades em manipulação de dados e interações com APIs no contexto do React.
 
+## Usar aplicação
+ faça um git clone desse projeto ##
+ ###
+ *npm install na pasta do projeto*
+ ###
+ *npm run dev  para executar o projeto na sua maquina local*
