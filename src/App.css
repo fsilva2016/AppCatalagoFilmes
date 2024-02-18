@@ -1,0 +1,14 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: left;
+}
+
+.app-container {
+    background-color: #000;
+}
+
+svg {
+    vertical-align: top;
+}
